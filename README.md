@@ -1,4 +1,4 @@
-#  Public Sector AI Assistant: Deep Learning Chatbot
+# Intelligent Enterprise Assistant: Enhancing Organizational Efficiency through AI-driven Chatbot Integration
 ### NAME : Haridharshini J
 ### RegNo: 212224040098
 ## Project Overview
