@@ -1,6 +1,6 @@
 #  Public Sector AI Assistant: Deep Learning Chatbot
-### NAME : Ahamed Sahul Hameed M
-### RegNo: 212224040016
+### NAME : Haridharshini J
+### RegNo: 212224040098
 ## Project Overview
 
 This project delivers a secure, scalable, and intelligent chatbot designed specifically for a large public sector organization. 
